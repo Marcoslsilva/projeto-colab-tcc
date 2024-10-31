@@ -10,3 +10,6 @@ print("Colaborador - 2")
 nome = input("Digite seu nome:")
 
 idade = int(input("Digite sua idade: "))
+
+# Solicitando dados.
+endereco = input ("Digite seu endereço:")
