@@ -2,8 +2,6 @@ import os
 
 os.system("cls || clear")
 
-print("Colaborador Marcos")
-
 # comandos do git
 
 # Atualiza o repositórioatual com dados do repositório no Github
