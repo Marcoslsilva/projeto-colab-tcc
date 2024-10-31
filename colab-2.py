@@ -13,3 +13,7 @@ idade = int(input("Digite sua idade: "))
 
 # Solicitando dados.
 endereco = input ("Digite seu endereço:")
+
+print(nome)
+print(idade)
+print(endereco)
